@@ -1,3 +1,6 @@
+
+https://user-images.githubusercontent.com/42896564/115137964-cba9f480-a046-11eb-8f8f-d026d8dceaa4.mp4
+
 # Face-mask-detection
 •	Created a convolution neural network based on Mobilenet CNN architecture to build model.
 
